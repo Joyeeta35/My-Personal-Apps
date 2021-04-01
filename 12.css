@@ -1,0 +1,27 @@
+#apps{
+    width:100%;
+    height:800px;
+    background-color:#fff28c;
+}
+.line{
+    height:6px;
+    background-color:#fcbe38;
+    width: 70px;
+    margin:8px auto;
+}
+#games{
+    width:100%;
+    height:800px;
+    background-color:#fff28c;
+}
+img{
+    transition: transfrom .2s;
+}
+img:hover{
+    background-color:#ff9340;
+}
+#chatbot{
+    width:100%;
+    height:800px;
+    background-color:#fff28c;
+}
